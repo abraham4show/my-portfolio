@@ -10,9 +10,11 @@ const highlights = [
 ];
 
 const experience = [
- { year: '2024 - Present', role: 'Freelance Full Stack Developer', company: 'Self-Employed' },
-  { year: '2022 - 2024', role: 'IT Support Officer', company: 'segodaf Limited' },
-  { year: '2021', role: 'IT Support Officer', company: 'Euro Asia' },
+{ year: '2026', role: 'Full Stack Engineer', company: 'OBRUS APEX SERVICES (Freelance)' },
+{ year: '2024 - 2025', role: 'Full Stack Engineer', company: 'Royal Group of Schools (Freelance)' },
+{ year: '2023 - 2024', role: 'Full Stack Engineer', company: 'shopanidam (Freelance)' },
+{ year: '2022 - 2023', role: 'Full Stack Engineer', company: 'Segodaf Limited (Contract)' },
+{ year: '2021 - 2022', role: 'Full Stack Engineer', company: 'HOLY FLOCK OF CHRIST (Freelance)' },
 ];
 
 const About = () => {
@@ -54,7 +56,7 @@ const About = () => {
             </h2>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
               I am a full-stack developer specializing in building scalable, high-performance web applications
-              using modern technologies like React, Node.js, TypeScript, Python, and AWS.
+              using modern technologies like React, Node.js,Golang, TypeScript, Python, and AWS.
             </p>
           </motion.div>
 

@@ -101,7 +101,7 @@ const Hero = () => {
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10"
           >
             I build scalable web applications, cloud-native solutions, and modern user experiences
-            using React, TypeScript, Node.js, Python, Django, and AWS.
+            using React, TypeScript, Node.js, Python, Golang, Django, and AWS.
           </motion.p>
 
           {/* Tech stack badges */}
@@ -111,7 +111,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="flex flex-wrap justify-center gap-3 mb-10"
           >
-            {['React', 'TypeScript', 'Node.js', 'Python', 'AWS', 'MongoDB', 'Django'].map((tech, index) => (
+            {['React', 'TypeScript', 'Node.js', 'Python', 'Golang', 'AWS', 'MongoDB', 'Django'].map((tech, index) => (
               <motion.span
                 key={tech}
                 initial={{ opacity: 0, scale: 0.8 }}
