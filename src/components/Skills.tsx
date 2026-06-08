@@ -27,10 +27,11 @@ const skillCategories: SkillCategory[] = [
   {
     title: 'Backend',
     skills: [
-      { name: 'Node.js', icon: '💚' },
-      { name: 'Express.js', icon: '🚂' },
-      { name: 'Django', icon: '🐍' },
-      { name: 'FastAPI', icon: '⚡' },
+       { name: 'Node.js', icon: '💚' },
+  { name: 'Express.js', icon: '🚂' },
+  { name: 'Django', icon: '🐍' },
+  { name: 'FastAPI', icon: '⚡' },
+  { name: 'Go', icon: '🐹' }
     ],
   },
   {
