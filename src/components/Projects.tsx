@@ -64,6 +64,17 @@ const projects: Project[] = [
     githubUrl: 'https://github.com/abraham4show/fileUpload',
   },
   {
+    id: 6,
+    title: 'Oni-Ikoyi Estate — Luxury Real Estate Platform',
+    description:
+      'A premium real estate platform for Nigeria\'s most exclusive waterfront estate. The website showcases luxury properties with multi-image galleries, interactive 3D property viewing, and a complete inspection booking system integrated with Formspree for direct owner communication. Features include property filtering by type (Land, Detached, Semi-Detached, Duplex), dynamic property cards with availability status, and a responsive design optimized for all devices. Built with React, TypeScript, TailwindCSS, and Framer Motion for smooth animations.',
+    image: '/img/IKOYI-BG.jpg',
+    tags: ['React', 'TypeScript', 'TailwindCSS', '3D Integration', 'Framer Motion', 'Real Estate'],
+    liveUrl: 'https://oni-ikoyi.netlify.app/',
+    githubUrl: 'https://github.com/abraham4show/oni-ikoyi-dreamweaver.git',
+    featured: true,
+  },
+  {
     id: 5,
     title: 'School Management System',
     description:
